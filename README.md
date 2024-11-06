@@ -1,6 +1,6 @@
 # DHCP-Server
 
-Your script for managing a DHCP server installation and configuration on an Ubuntu system
+script for managing a DHCP server installation and configuration on an Ubuntu system
 
 # Installation & Usage
 
