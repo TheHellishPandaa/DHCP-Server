@@ -1,4 +1,4 @@
-# DHCP-Server-With-MAC-FILTER
+# DHCP-Server
 
 Your script for managing a DHCP server installation and configuration on an Ubuntu system
 
@@ -7,13 +7,13 @@ Your script for managing a DHCP server installation and configuration on an Ubun
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/TheHellishPandaa/DHCP-Server-With-MAC-FILTER.git
+   git clone https://github.com/TheHellishPandaa/DHCP-Server.git
    ```
 
 2. **Navigate to the script's directory**:
 
    ```bash
-   cd DHCP-Server-With-MAC-FILTER
+   cd DHCP-Server
    ```
 
 3. **Make the script executable**:
