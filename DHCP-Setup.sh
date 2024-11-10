@@ -1,6 +1,10 @@
 #!/bin/bash
-#Date: november 2024
-#:Description: A tool for creating and managing a DHCP server with MAC filtering in an Ubuntu 22.04 system.
+# version 1.1
+# Author: Jaime Galvez (TheHellishPandaa)
+#&COPY;2024 
+#GNU/GPL Licence
+#Date: November-2024
+#:Description: A tool for creating and managing a DHCP server with MAC filtering in an Ubuntu 20.04 system or later
 #:Usage: First option installs the DHCP-SERVER. The second option configures and sets up parameters, including MAC filtering.
 #:Dependencies:
 #:      - "ISC-DHCP-SERVER"
