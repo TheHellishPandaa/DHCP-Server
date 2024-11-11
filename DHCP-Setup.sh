@@ -9,7 +9,7 @@
 #:Dependencies:
 #:      - "ISC-DHCP-SERVER"
 
-#!/bin/bash
+
 
 clear
 
